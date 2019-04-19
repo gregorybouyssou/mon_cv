@@ -1,0 +1,56 @@
+#address{
+    color:blue;
+    font-weight:bold;
+    font-size:20px; 
+    font-family:Tahoma;
+    margin:auto;
+    padding:auto;
+  
+}
+
+.contact{
+    color:blue;
+    font-weight:bold;
+    font-size:20px; 
+    font-family:Tahoma;
+}
+h1{
+    text-align: center;
+    margin:auto;
+    padding:auto;
+}
+
+header{
+    background-color: gray;
+    margin:auto;
+    padding:100px 100 100 100;
+    width:80%;
+    height:300px;
+    }
+ 
+    #bob{
+        text-align:center;
+        color: blue;
+        font-weight:bold;
+        font-size:30px;
+    }
+
+    .title{
+        color: blue;
+        font-weight:bold;
+        font-size:30px;
+        text-align: center;
+}
+.trotro li{
+    text-align: center;
+    padding:0 0 0 0;
+    margin: 0 0 0 0;
+}
+
+.diplomes li{
+    text-align: center;
+}
+
+#divers{
+    color: blue;
+}
