@@ -17,18 +17,34 @@ header{
         font-weight:bold;
             font-size:20px; 
                 font-family:Tahoma;
-                   
-                }
+                background-color:black;
+                position: relative
+                left: 20px;
+                padding-left: 54px;
+                float: left;
+            }
+                
 
 #img{
-    text-align: right;
+    padding-left: 0px;
+    margin-right: 56px;
+    
+    margin-left: 900px;
+   
+    
+   background-color: black;
    }
 
-#nav{
-    color: white;
-    font-weight: bold;
-    display: inline;
+barre{
+ 
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+               text-decoration: none;
+        
 }
+    
  
 main{
     width: 80%;
@@ -49,12 +65,12 @@ main{
         text-align: center;
 }
 
-.trotro{
+#trotro{
     text-align: right;
     
 }
 
-.diplomes{
+#diplomes{
     text-align: center;
 }
 aside{
@@ -65,3 +81,23 @@ aside{
     color: blue;
 }
 
+
+*{box-sizing:border-box}
+
+
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding: 10px;
+  color: white;
+
+}
+
+.Bricolage{width: 75%; background-color: #4CAF50;}
+.Informatique{width: 50%; background-color: #2196F3;} 
+.Musique {width: 60%; background-color: #f44336;}
+.HTML{width: 20%; background-color: #808080;}
